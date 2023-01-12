@@ -1,0 +1,11 @@
+{
+  "name": "png_to_jpg",
+  "version": "1.0.0",
+  "description": "this script convert png to jpg and jpg to png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil kamboj",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+(hey friends my name is nikhil kamboj I hope you are happy using this script)
+firstly you are paste your images input_images folder 
+if you are genrate to png to jpg enter the command :- node index.js png 100
+if you are above 100 of images please change number :- 0 /9999999999
+if you are genrate jpg to png enter the command :- node index.js jpg 100 
+
+
